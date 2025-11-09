@@ -26,6 +26,7 @@ A web-based image editor that allows users to upload, resize, crop, and apply fi
 
 ## 🧑‍💻 How to Use / Run Locally
 1. **Clone this repository:**
+ ```
    git clone https://github.com/omargamal-og/Image-Editor.git
 
 ---
